@@ -1,1 +1,1 @@
-# scheduler
+# Simple Task Scheduler using pthread C API
